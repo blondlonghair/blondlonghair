@@ -1,6 +1,6 @@
-### Hi there 👋
+- 🌱 I’m currently learning c#
+- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan031120)](https://solved.ac/chan031120/)
-?style=for-the-badge&logo=appveyor
 <!--
 **blondlonghair/blondlonghair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
