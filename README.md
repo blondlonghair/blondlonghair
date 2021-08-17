@@ -1,5 +1,7 @@
 - 🌱 I’m currently learning c#
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2395FF9A&title_bg=%233F3F3F&icon=inkscape.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blondlonghair&layout=compact)]
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blondlonghair&show_icons=true)
