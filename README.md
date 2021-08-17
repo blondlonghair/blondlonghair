@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning c#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longblandhair&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blondlonghair&layout=compact)]
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blondlonghair&show_icons=true)
 
