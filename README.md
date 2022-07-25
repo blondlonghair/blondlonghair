@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Rust
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blondlonghair&show_icons=true)
 
