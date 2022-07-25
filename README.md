@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blondlonghair&show_icons=true)
 
