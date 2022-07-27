@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning Rust
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JongChan%20Park&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=blondlonghair&show_icons=true)
 
